@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ripple_server/META"
+  "_build/install/default/lib/ripple_server/dune-package"
+  "_build/install/default/lib/ripple_server/opam"
+]
+bin: [
+  "_build/install/default/bin/ripple_server"
+]
